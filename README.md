@@ -4,3 +4,5 @@ Our senior project implementation of manim and other python libraries to create 
 
 How to install manim:
 https://gilberttanner.com/blog/creating-math-animations-in-python-with-manim
+Add this for Jupyter Notebook support:
+https://github.com/krassowski/jupyter-manim
